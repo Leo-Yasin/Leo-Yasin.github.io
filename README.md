@@ -131,3 +131,12 @@
 - 美国大学生数学建模比赛三等奖
 - 2022杭州亚运会开幕式演员、优秀团员
 - 优秀学生干部、优秀毕业生
+
+
+## 部分项目演示 Demo
+
+<video width="720" controls playsinline preload="metadata">
+  <source src="videos/2023BLCU(中医智慧之时间节律)-演示视频-compressed.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+      
